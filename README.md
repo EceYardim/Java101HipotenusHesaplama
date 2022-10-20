@@ -1,1 +1,2 @@
-# Java101HipotenusHesaplama
+# Java101HipotenusVeAlanHesaplama   (www.Patika.dev)
+
