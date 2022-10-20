@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e008511-009c-42a1-b736-710ab4c0ff30" name="Changes" comment="v1" />
+    <list default="true" id="7e008511-009c-42a1-b736-710ab4c0ff30" name="Changes" comment="v1">
+      <change beforePath="$PROJECT_DIR$/Java101HipotenusHesaplama.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java101HipotenusVeAlanHesaplama.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HipotenusHesaplama/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HipotenusVeAlanHesaplama/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HipotenusHesaplama/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/HipotenusVeAlanHesaplama/Readme.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,14 +46,27 @@
 }</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HipotenusHesaplama.Main" />
-      <module name="Java101HipotenusHesaplama" />
+      <option name="MAIN_CLASS_NAME" value="HipotenusVeAlanHesaplama.Main" />
+      <module name="Java101HipotenusVeAlanHesaplama" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HipotenusHesaplama.*" />
+          <option name="PATTERN" value="HipotenusVeAlanHesaplama.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Java101HipotenusVeAlanHesaplama" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Java101HipotenusVeAlanHesaplama" />
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -146,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666280480906</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="v1">
+      <created>1666280529145</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1666280529145</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

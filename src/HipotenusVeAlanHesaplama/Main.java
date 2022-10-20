@@ -1,4 +1,4 @@
-package HipotenusHesaplama;
+package HipotenusVeAlanHesaplama;
 import java.util.Scanner;
 
 public class Main {
